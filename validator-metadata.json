@@ -1,0 +1,20 @@
+{
+  "pub_key": "",
+  "name": "NAGAGINI",
+  "description": "Precise Validation, Guaranteed Results",
+  "company_name": "Nagagini",
+  "company_website": "https://nagagininode.xyz",
+  "client_version": "1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg"
+    }
+  }
+}
