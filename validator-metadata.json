@@ -7,14 +7,14 @@
   "client_version": "1.0.0",
   "icon": {
     "14x14": {
-      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
-      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
-      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg"
+      "@1x": "https://raw.githubusercontent.com/nagagininode/logo/refs/heads/main/14.png",
+      "@2x": "https://raw.githubusercontent.com/nagagininode/logo/refs/heads/main/24.png",
+      "@3x": "https://raw.githubusercontent.com/nagagininode/logo/refs/heads/main/42.png"
     },
     "24x24": {
-      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
-      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
-      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg"
+      "@1x": "https://raw.githubusercontent.com/nagagininode/logo/refs/heads/main/24.png",
+      "@2x": "https://raw.githubusercontent.com/nagagininode/logo/refs/heads/main/48.png",
+      "@3x": "https://raw.githubusercontent.com/nagagininode/logo/refs/heads/main/72.png"
     }
   }
 }
